@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3ee1c6f8d75d0c46954adeb5e7c18bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patlama: {fileID: 5789067071394861911, guid: 1c839a33aba04bc4390b3629388f487a,
+      type: 3}
+  - playerPatlama: {fileID: 9203789014318057685, guid: 53ca6577a93531c40b4cb8ecced29d79,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
